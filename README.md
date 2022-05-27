@@ -1,3 +1,5 @@
+<p align="center">
+  <img alt="Halcyon Logo" src="https://raw.githubusercontent.com/Hanesh-Jogani/Theme-It-Dark/main/images/logo.png" width="100" />
 </p>
 <h1 align="center">
   Theme It Dark theme for VS Code
