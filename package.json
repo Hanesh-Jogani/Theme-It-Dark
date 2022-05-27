@@ -1,0 +1,33 @@
+{
+    "name": "theme-it-dark",
+    "displayName": "Theme It Dark",
+    "description": "Theme It Dark, an extension for Visual Studio Code",
+    "version": "0.0.1",
+    "publisher": "haneshjogani",
+    "icon": "images/logo.png",
+    "author": {
+        "name": "Hanesh Jogani",
+        "email": "hanesh.jogani@gmail.com"
+      },
+    "engines": {
+        "vscode": "^1.67.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "keywords": [
+      "Themes",
+      "Dark Theme",
+      "Theme It Dark",
+      "theme-it-dark"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Theme It Dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Theme It Dark-color-theme.json"
+            }
+        ]
+    }
+}
